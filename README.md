@@ -1,6 +1,6 @@
 # meeting03-ci
 
-DevOps course, meeting 3: Build, Test and Continuous Integration.
+DevOps course, meeting 3: Build, Test and Continuous Integration,v2.
 
 Local checks:
 
