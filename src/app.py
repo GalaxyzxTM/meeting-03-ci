@@ -8,4 +8,4 @@ def add(a, b):
 
 def health():
     """Return the service status."""
-    return "ok"
+    return " ok"
